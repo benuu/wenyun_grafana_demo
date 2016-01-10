@@ -1,0 +1,75 @@
+2016/01/06 00:01:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 6055us
+2016/01/06 00:01:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2981us
+2016/01/06 00:04:14 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 238us
+2016/01/06 00:07:15 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 317us
+2016/01/06 00:09:15 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 267us
+2016/01/06 00:11:05 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1521us
+2016/01/06 00:13:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2456us
+2016/01/06 00:13:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 3141us
+2016/01/06 00:14:46 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 291us
+2016/01/06 00:16:06 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1437us
+2016/01/06 00:16:17 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 263us
+2016/01/06 00:18:07 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 257us
+2016/01/06 00:18:17 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 3173us
+2016/01/06 00:20:57 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 701us
+2016/01/06 00:22:48 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 614us
+2016/01/06 00:25:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1317us
+2016/01/06 00:25:58 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 406us
+2016/01/06 00:27:19 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 245us
+2016/01/06 00:30:09 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 1725us
+2016/01/06 00:30:19 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1560us
+2016/01/06 00:30:29 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2577us
+2016/01/06 00:32:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 274us
+2016/01/06 00:36:34 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 271us
+2016/01/06 00:39:45 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 241us
+2016/01/06 00:39:45 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 874us
+2016/01/06 00:41:35 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 627us
+2016/01/06 00:41:35 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 521us
+2016/01/06 00:41:55 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1179us
+2016/01/06 00:42:25 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1705us
+2016/01/06 00:45:05 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 5442us
+2016/01/06 00:48:06 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 3645us
+2016/01/06 00:50:06 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 247us
+2016/01/06 00:51:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 5474us
+2016/01/06 01:00:53 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1677us
+2016/01/06 01:04:34 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 8249us
+2016/01/06 01:04:34 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 15455us
+2016/01/06 01:04:34 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 805us
+2016/01/06 01:04:34 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 18673us
+2016/01/06 01:05:03 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 436us
+2016/01/06 05:37:03 [I] Completed 58.33.176.152 - "GET / HTTP/1.1" 302 Found 29 bytes in 401us
+2016/01/06 05:37:13 [login.go:99 LoginPost()] [E] Invalid username or password: Invalid Username or Password
+2016/01/06 05:37:13 [I] Completed 58.33.176.152 - "POST /login HTTP/1.1" 401 Unauthorized 42 bytes in 57730us
+2016/01/06 05:37:13 [I] Completed 58.33.176.152 - "GET /api/login/ping HTTP/1.1" 401 Unauthorized 26 bytes in 548us
+2016/01/06 05:38:00 [I] Completed 58.33.176.152 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 30377us
+2016/01/06 05:38:00 [I] Completed 58.33.176.152 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 43296us
+2016/01/06 05:38:00 [I] Completed 58.33.176.152 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 53728us
+2016/01/06 05:38:00 [I] Completed 58.33.176.152 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 47026us
+2016/01/06 05:38:00 [I] Completed 58.33.176.152 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7392us
+2016/01/06 06:14:18 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 7093us
+2016/01/06 06:58:49 [I] Completed 141.212.122.145 - "GET / HTTP/1.0" 302 Found 29 bytes in 1022us
+2016/01/06 07:19:16 [I] Completed 121.42.0.19 - "GET / HTTP/1.1" 302 Found 29 bytes in 597us
+2016/01/06 08:34:38 [I] Completed 93.115.95.207 - "GET / HTTP/1.0" 302 Found 29 bytes in 452us
+2016/01/06 08:48:28 [I] Completed 54.183.120.101 - "GET / HTTP/1.0" 302 Found 29 bytes in 411us
+2016/01/06 09:36:04 [I] Completed 112.65.190.5 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2725us
+2016/01/06 09:54:43 [I] Completed 112.65.190.5 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 253us
+2016/01/06 10:34:45 [I] Completed 112.65.190.5 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1814us
+2016/01/06 10:37:29 [I] Completed 112.65.190.5 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 9118us
+2016/01/06 11:09:09 [I] Completed 117.136.8.66 - "GET / HTTP/1.1" 302 Found 29 bytes in 445us
+2016/01/06 11:10:12 [I] Completed 106.120.160.109 - "GET / HTTP/1.1" 302 Found 29 bytes in 546us
+2016/01/06 11:11:33 [I] Completed 101.199.108.120 - "GET / HTTP/1.1" 302 Found 29 bytes in 383us
+2016/01/06 11:14:30 [I] Completed 117.136.8.66 partybird "GET /logout HTTP/1.1" 302 Found 29 bytes in 1378us
+2016/01/06 11:15:05 [I] Completed 106.120.160.109 - "GET /logout HTTP/1.1" 302 Found 29 bytes in 431us
+2016/01/06 11:15:57 [I] Completed 101.199.108.52 - "GET /logout HTTP/1.1" 302 Found 29 bytes in 354us
+2016/01/06 11:17:01 [I] Completed 112.86.52.222 partybird "GET /login HTTP/1.0" 302 Found 24 bytes in 1706us
+2016/01/06 11:18:19 [I] Completed 112.86.52.222 partybird "GET /logout HTTP/1.0" 302 Found 29 bytes in 1091us
+2016/01/06 14:27:23 [I] Completed 121.42.0.14 - "GET / HTTP/1.1" 302 Found 29 bytes in 443us
+2016/01/06 15:48:21 [I] Completed 117.136.8.66 - "GET / HTTP/1.1" 302 Found 29 bytes in 550us
+2016/01/06 15:50:09 [I] Completed 117.136.8.66 partybird "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 5127us
+2016/01/06 15:50:09 [I] Completed 117.136.8.66 partybird "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 2301us
+2016/01/06 15:50:15 [I] Completed 117.136.8.66 partybird "GET /logout HTTP/1.1" 302 Found 29 bytes in 3272us
+2016/01/06 17:09:27 [I] Completed 61.135.190.198 - "GET / HTTP/1.0" 302 Found 29 bytes in 425us
+2016/01/06 19:54:54 [I] Completed 54.200.157.202 - "GET / HTTP/1.0" 302 Found 29 bytes in 380us
+2016/01/06 22:12:33 [I] Completed 54.67.110.50 - "GET / HTTP/1.0" 302 Found 29 bytes in 398us
+2016/01/06 22:27:37 [I] Completed 121.42.0.31 - "GET / HTTP/1.1" 302 Found 29 bytes in 395us
+2016/01/06 23:26:41 [T] Sending anonymous usage stats to stats.grafana.org

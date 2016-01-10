@@ -1,0 +1,1554 @@
+2016/01/05 03:08:29 [I] Completed 121.42.0.35 - "GET / HTTP/1.0" 302 Found 29 bytes in 396us
+2016/01/05 04:38:37 [I] Completed 198.20.70.114 - "GET / HTTP/1.1" 302 Found 29 bytes in 371us
+2016/01/05 04:38:38 [I] Completed 198.20.70.114 - "GET /sitemap.xml HTTP/1.1" 404 Not Found 2133 bytes in 860us
+2016/01/05 05:27:27 [I] Completed 61.135.190.72 - "GET / HTTP/1.0" 302 Found 29 bytes in 355us
+2016/01/05 05:53:43 [I] Completed 118.98.104.21 - "GET /user/soapCaller.bs HTTP/1.0" 404 Not Found 2133 bytes in 710us
+2016/01/05 07:32:01 [I] Completed 121.42.0.15 - "GET / HTTP/1.1" 302 Found 29 bytes in 373us
+2016/01/05 07:35:49 [I] Completed 190.214.21.185 - "GET /phpMyAdmin/scripts/setup.php HTTP/1.0" 404 Not Found 2133 bytes in 632us
+2016/01/05 07:35:50 [I] Completed 190.214.21.185 - "GET /pma/scripts/setup.php HTTP/1.0" 404 Not Found 2133 bytes in 598us
+2016/01/05 07:35:51 [I] Completed 190.214.21.185 - "GET /myadmin/scripts/setup.php HTTP/1.0" 404 Not Found 2133 bytes in 739us
+2016/01/05 09:50:33 [I] Completed 117.136.8.79 - "GET / HTTP/1.0" 302 Found 29 bytes in 422us
+2016/01/05 09:51:20 [I] Completed 106.120.160.109 - "GET / HTTP/1.0" 302 Found 29 bytes in 452us
+2016/01/05 09:54:14 [I] Completed 182.140.230.13 - "GET / HTTP/1.0" 302 Found 29 bytes in 540us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 800727us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11454174us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11457978us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 806455us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 811260us
+2016/01/05 09:55:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11465474us
+2016/01/05 09:56:13 [I] Completed 106.120.160.109 - "GET /dashboard/db/liu-zhou-lu-beng-zhan HTTP/1.0" 302 Found 29 bytes in 465us
+2016/01/05 09:56:40 [I] Completed 101.199.112.49 - "GET /dashboard/db/liu-zhou-lu-beng-zhan HTTP/1.0" 302 Found 29 bytes in 479us
+2016/01/05 09:57:09 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 256us
+2016/01/05 10:00:29 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 52205us
+2016/01/05 10:04:27 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 20962us
+2016/01/05 10:04:27 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 5440us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 17299us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 590us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1490us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 8192us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2727us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 6930us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 584us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 566us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1193us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 762us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1307us
+2016/01/05 10:04:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2546us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 486us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 791us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 513us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 420us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 5073us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2826us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 5022us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 9727us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 401us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 417us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 561us
+2016/01/05 10:05:07 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 524us
+2016/01/05 10:05:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2250us
+2016/01/05 10:05:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 649us
+2016/01/05 10:12:57 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1697us
+2016/01/05 10:16:18 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 228us
+2016/01/05 10:16:18 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 885us
+2016/01/05 10:23:38 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 9006us
+2016/01/05 10:27:09 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1093us
+2016/01/05 10:27:09 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1789us
+2016/01/05 10:29:39 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1328us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 32254280us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 41902168us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 34327235us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 19615786us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 42179146us
+2016/01/05 10:35:03 [I] Completed 140.207.21.81 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 31986614us
+2016/01/05 10:35:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019261us
+2016/01/05 10:35:31 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001448us
+2016/01/05 10:36:00 [I] Completed 101.90.253.10 - "GET / HTTP/1.0" 302 Found 29 bytes in 449us
+2016/01/05 10:36:03 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002435us
+2016/01/05 10:36:07 [I] Completed 101.90.253.10 forest "GET /public/fonts/fontawesome-webfont.woff HTTP/1.0" 206 Partial Content 1 bytes in 838us
+2016/01/05 10:36:07 [I] Completed 101.90.253.10 forest "GET /public/fonts/fontawesome-webfont.woff HTTP/1.0" 206 Partial Content 51963 bytes in 325us
+2016/01/05 10:36:31 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006709us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60027284us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60029897us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60035988us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60033826us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000120us
+2016/01/05 10:37:11 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000112us
+2016/01/05 10:37:24 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000413us
+2016/01/05 10:38:20 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60045408us
+2016/01/05 10:38:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000981us
+2016/01/05 10:38:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002451us
+2016/01/05 10:38:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000253us
+2016/01/05 10:38:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000595us
+2016/01/05 10:38:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002136us
+2016/01/05 10:38:24 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000282us
+2016/01/05 10:38:24 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000753us
+2016/01/05 10:38:34 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60004583us
+2016/01/05 10:39:20 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60042731us
+2016/01/05 10:39:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001363us
+2016/01/05 10:39:21 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000389us
+2016/01/05 10:39:22 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000738us
+2016/01/05 10:39:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000878us
+2016/01/05 10:39:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000343us
+2016/01/05 10:39:24 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001794us
+2016/01/05 10:39:24 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003674us
+2016/01/05 10:39:25 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000353us
+2016/01/05 10:39:27 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001571us
+2016/01/05 10:39:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002089us
+2016/01/05 10:39:34 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006277us
+2016/01/05 10:40:20 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60046001us
+2016/01/05 10:40:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001138us
+2016/01/05 10:40:22 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60013952us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59997616us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001761us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998510us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998640us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60013389us
+2016/01/05 10:40:26 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019618us
+2016/01/05 10:40:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000835us
+2016/01/05 10:40:29 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999755us
+2016/01/05 10:40:34 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60004872us
+2016/01/05 10:41:27 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000274us
+2016/01/05 10:41:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60012814us
+2016/01/05 10:41:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60039755us
+2016/01/05 10:41:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60040588us
+2016/01/05 10:41:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60040567us
+2016/01/05 10:41:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60035583us
+2016/01/05 10:41:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000916us
+2016/01/05 10:41:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001404us
+2016/01/05 10:41:29 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999599us
+2016/01/05 10:41:34 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003377us
+2016/01/05 10:41:46 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008170us
+2016/01/05 10:41:49 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60004324us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000961us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60028420us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60037845us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60046719us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60050533us
+2016/01/05 10:42:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60044115us
+2016/01/05 10:42:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000373us
+2016/01/05 10:42:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000624us
+2016/01/05 10:42:29 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000600us
+2016/01/05 10:42:35 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006222us
+2016/01/05 10:42:46 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60011542us
+2016/01/05 10:42:49 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002073us
+2016/01/05 10:43:28 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60037969us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000075us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005448us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005107us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005048us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60011138us
+2016/01/05 10:43:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998191us
+2016/01/05 10:43:29 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000407us
+2016/01/05 10:43:29 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999613us
+2016/01/05 10:43:35 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005811us
+2016/01/05 10:43:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001045us
+2016/01/05 10:43:49 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001284us
+2016/01/05 10:44:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60013870us
+2016/01/05 10:44:35 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005954us
+2016/01/05 10:44:40 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002573us
+2016/01/05 10:44:42 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998891us
+2016/01/05 10:44:42 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002576us
+2016/01/05 10:44:45 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000856us
+2016/01/05 10:44:46 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001397us
+2016/01/05 10:44:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59987691us
+2016/01/05 10:44:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59987734us
+2016/01/05 10:44:49 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001164us
+2016/01/05 10:45:04 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000511us
+2016/01/05 10:45:06 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001022us
+2016/01/05 10:45:28 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60023030us
+2016/01/05 10:45:46 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015527us
+2016/01/05 10:45:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000708us
+2016/01/05 10:45:54 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005755us
+2016/01/05 10:45:54 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999926us
+2016/01/05 10:45:54 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000441us
+2016/01/05 10:45:54 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005182us
+2016/01/05 10:45:59 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003356us
+2016/01/05 10:46:03 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003314us
+2016/01/05 10:46:04 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001428us
+2016/01/05 10:46:05 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001009us
+2016/01/05 10:46:06 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000878us
+2016/01/05 10:46:30 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60010392us
+2016/01/05 10:46:46 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60011168us
+2016/01/05 10:46:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 52260681us
+2016/01/05 10:46:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 36273560us
+2016/01/05 10:46:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001254us
+2016/01/05 10:46:47 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 48562744us
+2016/01/05 10:46:48 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 37618009us
+2016/01/05 10:46:48 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2026365us
+2016/01/05 10:46:48 [I] Completed 101.90.253.10 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1029294us
+2016/01/05 10:46:55 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003506us
+2016/01/05 10:46:55 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60009309us
+2016/01/05 10:46:55 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60007613us
+2016/01/05 10:47:10 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60012655us
+2016/01/05 10:47:18 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002300us
+2016/01/05 10:47:35 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60016918us
+2016/01/05 10:47:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998484us
+2016/01/05 10:47:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003178us
+2016/01/05 10:47:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001429us
+2016/01/05 10:48:40 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60041781us
+2016/01/05 10:48:41 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000492us
+2016/01/05 10:48:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008923us
+2016/01/05 10:48:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015166us
+2016/01/05 10:48:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60017981us
+2016/01/05 10:48:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015229us
+2016/01/05 10:49:56 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015791us
+2016/01/05 10:49:57 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1699us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 53181041us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 54510506us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11068910us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 53383125us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 41526794us
+2016/01/05 10:50:08 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 26282512us
+2016/01/05 10:50:09 [I] Received signal terminated. shutting down
+2016/01/05 11:02:46 [I] Starting Grafana
+2016/01/05 11:02:46 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 11:02:46 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 11:02:46 [I] Database: sqlite3
+2016/01/05 11:02:46 [I] Migrator: Starting DB migration
+2016/01/05 11:02:46 [I] Listen: http://0.0.0.0:3000
+2016/01/05 11:06:04 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 292us
+2016/01/05 11:06:04 [I] Completed 180.175.89.221 partybird "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2396us
+2016/01/05 11:15:03 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 236us
+2016/01/05 11:21:22 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1983547us
+2016/01/05 11:21:22 [I] Completed 180.175.89.221 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2029883us
+2016/01/05 11:21:22 [I] Completed 180.175.89.221 partybird "GET /logout HTTP/1.0" 302 Found 29 bytes in 1397us
+2016/01/05 11:21:59 [I] Completed 106.120.160.109 - "GET /logout HTTP/1.0" 302 Found 29 bytes in 376us
+2016/01/05 11:22:28 [I] Completed 101.199.112.49 - "GET /logout HTTP/1.0" 302 Found 29 bytes in 743us
+2016/01/05 11:26:25 [I] Completed 36.110.66.3 - "GET / HTTP/1.0" 302 Found 29 bytes in 591us
+2016/01/05 11:26:28 [I] Completed 36.110.66.3 - "GET /favicon.ico HTTP/1.0" 404 Not Found 2133 bytes in 597us
+2016/01/05 11:26:39 [I] Completed 36.110.66.3 - "GET /favicon.ico HTTP/1.0" 404 Not Found 2133 bytes in 648us
+2016/01/05 11:26:39 [I] Completed 36.110.66.3 yangdan "GET /public/fonts/fontawesome-webfont.eot HTTP/1.0" 206 Partial Content 31699 bytes in 560us
+2016/01/05 11:37:20 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 407us
+2016/01/05 11:39:31 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 301us
+2016/01/05 11:41:22 [I] Completed 36.110.66.3 yangdan "GET /logout HTTP/1.0" 302 Found 29 bytes in 1119us
+2016/01/05 11:50:49 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 4929us
+2016/01/05 11:57:50 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2358us
+2016/01/05 11:57:50 [I] Completed 140.207.21.81 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2187us
+2016/01/05 14:33:39 [I] Completed 121.42.0.17 - "GET / HTTP/1.1" 302 Found 29 bytes in 420us
+2016/01/05 14:59:18 [I] Completed 58.39.140.120 partybird "GET /logout HTTP/1.0" 302 Found 29 bytes in 1295us
+2016/01/05 21:58:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 954947us
+2016/01/05 21:58:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1727421us
+2016/01/05 21:58:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 30631409us
+2016/01/05 21:58:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 29161286us
+2016/01/05 21:58:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6834774us
+2016/01/05 21:58:51 [I] Completed 114.92.139.144 - "GET / HTTP/1.0" 302 Found 29 bytes in 463us
+2016/01/05 22:00:26 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60011216us
+2016/01/05 22:00:26 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000135us
+2016/01/05 22:00:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001780us
+2016/01/05 22:01:12 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60013300us
+2016/01/05 22:01:12 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999809us
+2016/01/05 22:02:12 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002273us
+2016/01/05 22:02:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60022743us
+2016/01/05 22:02:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60029323us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 20842025us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 33621726us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 30997155us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 35150577us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 688465us
+2016/01/05 22:03:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3260798us
+2016/01/05 22:03:43 [I] Received signal terminated. shutting down
+2016/01/05 22:08:12 [I] Starting Grafana
+2016/01/05 22:08:12 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 22:08:12 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 22:08:12 [I] Database: sqlite3
+2016/01/05 22:08:12 [I] Migrator: Starting DB migration
+2016/01/05 22:08:12 [I] Listen: http://0.0.0.0:3000
+2016/01/05 22:08:19 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1285us
+2016/01/05 22:17:14 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000312us
+2016/01/05 22:17:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000818us
+2016/01/05 22:17:32 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999974us
+2016/01/05 22:18:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000388us
+2016/01/05 22:18:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001169us
+2016/01/05 22:19:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000546us
+2016/01/05 22:19:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999633us
+2016/01/05 22:19:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60004488us
+2016/01/05 22:19:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000053us
+2016/01/05 22:19:32 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000479us
+2016/01/05 22:19:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000688us
+2016/01/05 22:20:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001012us
+2016/01/05 22:20:32 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999635us
+2016/01/05 22:20:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000580us
+2016/01/05 22:20:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001946us
+2016/01/05 22:20:43 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000957us
+2016/01/05 22:20:44 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000662us
+2016/01/05 22:21:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001007us
+2016/01/05 22:21:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001230us
+2016/01/05 22:21:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000026us
+2016/01/05 22:21:43 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001280us
+2016/01/05 22:21:44 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001550us
+2016/01/05 22:22:17 [I] Starting Grafana
+2016/01/05 22:22:17 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 22:22:17 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 22:22:17 [I] Database: sqlite3
+2016/01/05 22:22:17 [I] Migrator: Starting DB migration
+2016/01/05 22:22:17 [I] Listen: http://0.0.0.0:3000
+2016/01/05 22:22:17 [web.go:93 StartServer()] [E] Fail to start server: listen tcp 0.0.0.0:3000: bind: address already in use
+2016/01/05 22:22:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998650us
+2016/01/05 22:22:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005798us
+2016/01/05 22:22:43 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000793us
+2016/01/05 22:22:43 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999714us
+2016/01/05 22:22:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000613us
+2016/01/05 22:22:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000296us
+2016/01/05 22:23:43 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001261us
+2016/01/05 22:23:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001366us
+2016/01/05 22:23:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001589us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60045039us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60051735us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056215us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056023us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066217us
+2016/01/05 22:25:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066533us
+2016/01/05 22:26:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60022205us
+2016/01/05 22:26:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60025137us
+2016/01/05 22:26:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60009516us
+2016/01/05 22:26:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60012233us
+2016/01/05 22:26:29 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001860us
+2016/01/05 22:26:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001339us
+2016/01/05 22:27:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60007969us
+2016/01/05 22:27:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008372us
+2016/01/05 22:27:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60021892us
+2016/01/05 22:27:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60026954us
+2016/01/05 22:27:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019402us
+2016/01/05 22:27:54 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60017105us
+2016/01/05 22:28:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008139us
+2016/01/05 22:28:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60010385us
+2016/01/05 22:28:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60018843us
+2016/01/05 22:28:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60023526us
+2016/01/05 22:28:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60027000us
+2016/01/05 22:29:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60025287us
+2016/01/05 22:29:03 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000394us
+2016/01/05 22:29:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008530us
+2016/01/05 22:29:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999073us
+2016/01/05 22:29:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008443us
+2016/01/05 22:29:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006918us
+2016/01/05 22:30:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020281us
+2016/01/05 22:30:03 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000841us
+2016/01/05 22:30:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008808us
+2016/01/05 22:30:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020889us
+2016/01/05 22:30:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60024150us
+2016/01/05 22:30:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60021173us
+2016/01/05 22:31:02 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60024205us
+2016/01/05 22:31:03 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000360us
+2016/01/05 22:31:13 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006831us
+2016/01/05 22:31:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59998462us
+2016/01/05 22:31:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60005401us
+2016/01/05 22:31:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003651us
+2016/01/05 22:32:33 [I] Completed 121.42.0.19 - "GET / HTTP/1.1" 302 Found 29 bytes in 981us
+2016/01/05 22:32:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056579us
+2016/01/05 22:32:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001258us
+2016/01/05 22:32:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000979us
+2016/01/05 22:32:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002759us
+2016/01/05 22:32:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002800us
+2016/01/05 22:32:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001446us
+2016/01/05 22:33:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056829us
+2016/01/05 22:33:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001732us
+2016/01/05 22:33:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000467us
+2016/01/05 22:33:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003641us
+2016/01/05 22:33:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000675us
+2016/01/05 22:33:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001097us
+2016/01/05 22:34:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056540us
+2016/01/05 22:34:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000339us
+2016/01/05 22:34:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002059us
+2016/01/05 22:34:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999928us
+2016/01/05 22:34:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999856us
+2016/01/05 22:34:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002210us
+2016/01/05 22:35:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056170us
+2016/01/05 22:35:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000217us
+2016/01/05 22:35:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000872us
+2016/01/05 22:35:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000410us
+2016/01/05 22:35:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999710us
+2016/01/05 22:35:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001041us
+2016/01/05 22:36:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60055613us
+2016/01/05 22:36:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000760us
+2016/01/05 22:36:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001275us
+2016/01/05 22:36:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001073us
+2016/01/05 22:36:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000192us
+2016/01/05 22:36:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002083us
+2016/01/05 22:37:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60039144us
+2016/01/05 22:37:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000339us
+2016/01/05 22:37:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001327us
+2016/01/05 22:37:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000423us
+2016/01/05 22:37:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000204us
+2016/01/05 22:37:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001460us
+2016/01/05 22:38:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60054839us
+2016/01/05 22:38:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000426us
+2016/01/05 22:38:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000535us
+2016/01/05 22:38:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000972us
+2016/01/05 22:38:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999611us
+2016/01/05 22:38:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001731us
+2016/01/05 22:39:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056245us
+2016/01/05 22:39:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999819us
+2016/01/05 22:39:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001532us
+2016/01/05 22:39:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000186us
+2016/01/05 22:39:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000844us
+2016/01/05 22:39:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002339us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000741us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60061972us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001171us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60007963us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999739us
+2016/01/05 22:40:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999565us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60046409us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60058924us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60061003us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60069643us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2349us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2471us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60012036us
+2016/01/05 22:41:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000936us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60048744us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60051419us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60059280us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062794us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066397us
+2016/01/05 22:42:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000339us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60027873us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60058410us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062231us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062351us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60067786us
+2016/01/05 22:43:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60064874us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60049349us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60044432us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60054486us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062610us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066148us
+2016/01/05 22:44:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60054514us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60051368us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60063174us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60068663us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60071073us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60073628us
+2016/01/05 22:45:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60064376us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60046854us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60042564us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60052860us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60053018us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60065281us
+2016/01/05 22:46:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60044703us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60049013us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60042286us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60063749us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062020us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60069600us
+2016/01/05 22:47:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056661us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60053153us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60047010us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60050477us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60052774us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60061759us
+2016/01/05 22:48:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60065899us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60049187us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60047758us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60072834us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60065618us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60069528us
+2016/01/05 22:49:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056766us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60049108us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60057925us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60057961us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60058162us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066005us
+2016/01/05 22:50:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60058235us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60047764us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60052486us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062523us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60061402us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60064098us
+2016/01/05 22:51:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60063838us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60045972us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60041266us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60041079us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60053938us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60053494us
+2016/01/05 22:52:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60065569us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60044402us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60060397us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60062681us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60064649us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60070314us
+2016/01/05 22:53:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60055177us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60043280us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60046734us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60052644us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056684us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60066265us
+2016/01/05 22:54:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60056454us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001195us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59996793us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59996705us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008475us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60013043us
+2016/01/05 22:55:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60025876us
+2016/01/05 22:56:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019378us
+2016/01/05 22:56:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015133us
+2016/01/05 22:57:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002454us
+2016/01/05 22:57:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019289us
+2016/01/05 22:57:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60017794us
+2016/01/05 22:57:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001414us
+2016/01/05 22:57:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60017481us
+2016/01/05 22:57:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60028598us
+2016/01/05 22:58:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60017421us
+2016/01/05 22:58:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020868us
+2016/01/05 22:58:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015619us
+2016/01/05 22:58:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001570us
+2016/01/05 22:58:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60008446us
+2016/01/05 22:58:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019967us
+2016/01/05 22:59:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015884us
+2016/01/05 22:59:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60018939us
+2016/01/05 22:59:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020322us
+2016/01/05 22:59:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000540us
+2016/01/05 22:59:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60019145us
+2016/01/05 22:59:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60029277us
+2016/01/05 23:00:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60016625us
+2016/01/05 23:00:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020089us
+2016/01/05 23:00:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003071us
+2016/01/05 23:00:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000432us
+2016/01/05 23:00:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60015928us
+2016/01/05 23:00:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60020064us
+2016/01/05 23:01:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60006699us
+2016/01/05 23:01:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60016223us
+2016/01/05 23:01:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003125us
+2016/01/05 23:01:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000660us
+2016/01/05 23:01:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60031903us
+2016/01/05 23:01:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60031558us
+2016/01/05 23:02:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60034698us
+2016/01/05 23:02:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60038201us
+2016/01/05 23:02:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60001555us
+2016/01/05 23:02:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000997us
+2016/01/05 23:02:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000997us
+2016/01/05 23:02:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002161us
+2016/01/05 23:03:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60040622us
+2016/01/05 23:03:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60060049us
+2016/01/05 23:03:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002420us
+2016/01/05 23:03:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000173us
+2016/01/05 23:03:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999669us
+2016/01/05 23:03:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60012241us
+2016/01/05 23:04:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60002741us
+2016/01/05 23:04:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003547us
+2016/01/05 23:04:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000411us
+2016/01/05 23:04:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000685us
+2016/01/05 23:04:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60003298us
+2016/01/05 23:05:10 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 280us
+2016/01/05 23:05:47 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2225us
+2016/01/05 23:05:47 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 6188us
+2016/01/05 23:05:47 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 1637us
+2016/01/05 23:05:47 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 4306us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60047942us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60059549us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60004570us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000100us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 59999930us
+2016/01/05 23:07:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60000219us
+2016/01/05 23:07:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4010444us
+2016/01/05 23:07:27 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6073608us
+2016/01/05 23:07:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3580650us
+2016/01/05 23:07:34 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2288750us
+2016/01/05 23:07:34 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4421397us
+2016/01/05 23:07:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 294560us
+2016/01/05 23:07:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3820400us
+2016/01/05 23:07:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3988478us
+2016/01/05 23:07:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1933963us
+2016/01/05 23:07:37 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 844646us
+2016/01/05 23:07:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 724864us
+2016/01/05 23:07:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3056633us
+2016/01/05 23:07:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2417387us
+2016/01/05 23:07:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2545998us
+2016/01/05 23:07:39 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 398474us
+2016/01/05 23:07:39 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6937207us
+2016/01/05 23:07:39 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 8672039us
+2016/01/05 23:07:39 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1224731us
+2016/01/05 23:07:39 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 422738us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1374234us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1275887us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 183689us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2367952us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 251703us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 129078us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 86522us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1202586us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1141389us
+2016/01/05 23:07:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 227106us
+2016/01/05 23:07:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1333545us
+2016/01/05 23:07:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1241971us
+2016/01/05 23:07:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1016209us
+2016/01/05 23:07:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1015077us
+2016/01/05 23:07:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2531625us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1187786us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 970702us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 954292us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1006419us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 843326us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 925678us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 846013us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 817483us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 748994us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1019669us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 786465us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 819817us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 856736us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1015816us
+2016/01/05 23:07:42 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 776503us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60035828us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60042902us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60047786us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60063455us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60067182us
+2016/01/05 23:08:46 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 60050026us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 224246us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1585062us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1309571us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 465423us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3635606us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2231086us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2682us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9213us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2742us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13457us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2307us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10458us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7524us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1382us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1708us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1862us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1910us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1678us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1285us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3882us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1309us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3997us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7284us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4333us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5867us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7608us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1671us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1429us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1792us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1250us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4121us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3246us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1588us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 224us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2306us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1659us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1454us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1593us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1585us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1284us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4361us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11281us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11094us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6595us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9520us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1342us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9106us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1424us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2490us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6623us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3271us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1479us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5098us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1304us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1559us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1357us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1509us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2139us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2932us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 8399us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1299us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1520us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4445us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2529us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3236us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 923us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3264us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1217us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3625us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2730us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1076us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 583us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3768us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1405us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1266us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1452us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1532us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1625us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6815us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4651us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13494us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5307us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7847us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1531us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1477us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1434us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2071us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2114us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1232us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1119us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1002us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1094us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1254us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1675us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1496us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1582us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1610us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4444us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1227us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5291us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9919us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2247us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1640us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1336us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 240us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10565us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1924us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 19622us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3907us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 18914us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2061us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1367us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3753us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6398us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15681us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2284us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6658us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 12643us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15216us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1178us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1266us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2038us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1244us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1709us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3573us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1119us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3637us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6447us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1620us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1313us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1137us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1132us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3358us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3947us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4143us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6659us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13478us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4292us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1657us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1510us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1711us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2959us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 967us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3747us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4143us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 8500us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 12936us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2726us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6037us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 12570us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1724us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2520us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1751us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1274us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1782us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1609us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2178us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1232us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2684us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1394us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2024us
+2016/01/05 23:10:16 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1838us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2126us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1495us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4288us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 1665us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2219us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1397us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1273us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1685us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1251us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2024us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1525us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1315us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5061us
+2016/01/05 23:10:25 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7907us
+2016/01/05 23:10:26 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1920us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1634us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1861us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1448us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2894us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1251us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4503us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7208us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10223us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1714us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1405us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1428us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 738us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5182us
+2016/01/05 23:10:35 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1850us
+2016/01/05 23:10:36 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1617us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2065us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1982us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5872us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2075us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10742us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4734us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1418us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1365us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1416us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4701us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1437us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1288us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1470us
+2016/01/05 23:10:45 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2087us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2259us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1432us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3909us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1104us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2854us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4943us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1350us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1325us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1429us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1594us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 418us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4233us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1946us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2590us
+2016/01/05 23:10:56 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1980us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2101us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1047us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6698us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4701us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4895us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7753us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3633us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1508us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1361us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5305us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1486us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 10414us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 10365us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 17743us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1738us
+2016/01/05 23:11:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1524us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1949us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1973us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1073us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 604us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2575us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5921us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2002us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1428us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1378us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1641us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4324us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7004us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4765us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7146us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1541us
+2016/01/05 23:11:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2276us
+2016/01/05 23:11:57 [I] Starting Grafana
+2016/01/05 23:11:57 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 23:11:57 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 23:11:57 [I] Database: sqlite3
+2016/01/05 23:11:57 [I] Migrator: Starting DB migration
+2016/01/05 23:11:57 [I] Listen: http://0.0.0.0:3000
+2016/01/05 23:11:57 [web.go:93 StartServer()] [E] Fail to start server: listen tcp 0.0.0.0:3000: bind: address already in use
+2016/01/05 23:13:24 [I] Starting Grafana
+2016/01/05 23:13:24 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 23:13:24 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 23:13:24 [I] Database: sqlite3
+2016/01/05 23:13:24 [I] Migrator: Starting DB migration
+2016/01/05 23:13:24 [I] Listen: http://0.0.0.0:3000
+2016/01/05 23:13:40 [I] Completed 114.92.139.144 - "GET / HTTP/1.1" 302 Found 29 bytes in 1460us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1773us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7365us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1618us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1764us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1025us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3289us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1475us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3938us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2251us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1452us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2514us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 12806us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7000us
+2016/01/05 23:14:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1511us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1482us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6448us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 10133us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3515us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2838us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 11108us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 922us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1202us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2396us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 861us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 3004us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6833us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3745us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2002us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2074us
+2016/01/05 23:14:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1659us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2511us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1486us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1310us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1312us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1250us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1455us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1481us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1224us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1300us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1174us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1678us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2822us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3241us
+2016/01/05 23:14:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1224us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1684us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1257us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4098us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7249us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 10115us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 17712us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1366us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 449us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 1337us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 11396us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1449us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1340us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 5849us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1265us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 9287us
+2016/01/05 23:14:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4442us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1408us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1357us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6764us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2631us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1971us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1656us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1816us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4027us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2928us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1256us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1266us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4833us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4691us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1247us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1907us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1838us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 736us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3198us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 947us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1758us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1379us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1188us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1334us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1146us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3414us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1738us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1286us
+2016/01/05 23:14:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1061us
+2016/01/05 23:14:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1948us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1614us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 5834us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 265us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3608us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1317us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1511us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1513us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1150us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6009us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2577us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2791us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 273us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 5543us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 13373us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1874us
+2016/01/05 23:14:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1868us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2376us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1223us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 1257us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 2309us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 5368us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 8493us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1526us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1349us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2065us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1360us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1125us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4659us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7053us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2691us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1533us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1012us
+2016/01/05 23:15:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1601us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2041us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3487us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4416us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 654us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3554us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1448us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 9115us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3379us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7602us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 9676us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1369us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 14940us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1785us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1075us
+2016/01/05 23:15:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1970us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1467us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3883us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2374us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2051us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.1" 401 Unauthorized 26 bytes in 926us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4409us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 980us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1360us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4924us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 7390us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 9038us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 10794us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 13333us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1325us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1873us
+2016/01/05 23:15:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1768us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1336us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2574us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6237us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2746us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3598us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1701us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2294us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1726us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1418us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2013us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1847us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1602us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1271us
+2016/01/05 23:15:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1263us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2005us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1237us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1431us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1295us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1289us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2125us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1664us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1227us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1180us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3573us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 977us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1276us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1144us
+2016/01/05 23:15:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 5161us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1468us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1526us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2137us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1324us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4101us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1291us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1381us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1466us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1226us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1586us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1218us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1407us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1942us
+2016/01/05 23:15:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1895us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1497us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2306us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 11836us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 8010us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3145us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 7971us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1030us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1496us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1322us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1895us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1582us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1744us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4525us
+2016/01/05 23:16:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1456us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2067us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1481us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1228us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1372us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1509us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1411us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1266us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1263us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1162us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2100us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1037us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1226us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1325us
+2016/01/05 23:16:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1991us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1942us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1230us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1489us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3625us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1025us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1271us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1593us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1246us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3534us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1442us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1870us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.1" 401 Unauthorized 26 bytes in 918us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6962us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2609us
+2016/01/05 23:16:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1470us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3375us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3780us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 2792us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 4918us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 6620us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 8425us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1523us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1338us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 3944us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 8428us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 16549us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 15028us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 20571us
+2016/01/05 23:16:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.1" 500 Internal Server Error 0 bytes in 1524us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1579us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1550us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1310us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4364us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2661us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1435us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1458us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1391us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1837us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1329us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1487us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1383us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1303us
+2016/01/05 23:16:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1640us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1480us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4603us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13076us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5512us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2997us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 16289us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1658us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1492us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1714us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1260us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1675us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1438us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4603us
+2016/01/05 23:17:00 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1761us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2051us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1258us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1710us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1331us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 483us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3978us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1810us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1447us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2539us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1435us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2438us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1702us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1311us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2051us
+2016/01/05 23:17:10 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1872us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2024us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2355us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1347us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2761us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 1104us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 12124us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 286us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3931us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2356us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3529us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4083us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3199us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3227us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1836us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1814us
+2016/01/05 23:17:20 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2200us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1931us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10915us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4423us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15048us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 8783us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2548us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1621us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1919us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1744us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1470us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2634us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2021us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1548us
+2016/01/05 23:17:30 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4417us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2265us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1693us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7989us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 6943us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 339us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2896us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 610us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 663us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 636us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 560us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 414us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 772us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 3264us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 288us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1892us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4811us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1408us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1420us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1445us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1203us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1844us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1453us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2157us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1152us
+2016/01/05 23:17:40 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1982us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2143us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1908us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1714us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1732us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1657us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9225us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2177us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2110us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 4143us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 7057us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 17691us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7020us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 8361us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 13575us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2477us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1613us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1644us
+2016/01/05 23:17:50 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1386us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2126us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1120us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 6332us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 12006us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15394us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2414us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1700us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1142us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3526us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1273us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1541us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2049us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1591us
+2016/01/05 23:17:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1292us
+2016/01/05 23:17:59 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1719us
+2016/01/05 23:17:59 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6269us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1994us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1237us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1373us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1530us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1620us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1360us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1536us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1329us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1285us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1309us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1312us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1591us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1465us
+2016/01/05 23:18:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1443us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1461us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1428us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1033us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 416us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3515us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1888us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1283us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2096us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1066us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4229us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6559us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 10684us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6155us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2154us
+2016/01/05 23:18:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7391us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2663us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 233us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2046us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1297us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1556us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1952us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1602us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1710us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 551us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7235us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 616us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2018us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5650us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1984us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1849us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1863us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2306us
+2016/01/05 23:18:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2493us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2172us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1130us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1877us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1458us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1840us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1411us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1552us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1308us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2258us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4810us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3786us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 559us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9597us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3679us
+2016/01/05 23:18:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1569us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2154us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1684us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1445us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1450us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 364us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5087us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1340us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3218us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 646us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4094us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1376us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1640us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5336us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1722us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1855us
+2016/01/05 23:18:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1901us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1898us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1979us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1938us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2091us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1395us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1765us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 304us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2640us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2422us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1273us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1384us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1479us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3516us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1616us
+2016/01/05 23:18:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1889us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1661us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1601us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1405us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4038us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2018us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1539us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1644us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5739us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1780us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2743us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7088us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1256us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1244us
+2016/01/05 23:19:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1609us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3087us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1498us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 2609us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 3725us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 4172us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9490us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1759us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1863us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1582us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1367us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1920us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1353us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4183us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2359us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2590us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1081us
+2016/01/05 23:19:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1865us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2219us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 14344us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11876us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13671us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15311us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 13237us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 27685us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 9024us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1513us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 14909us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 17381us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 8563us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 15011us
+2016/01/05 23:19:28 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4951us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2047us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1851us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2059us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1484us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1516us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1248us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1985us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1736us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1465us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1289us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6735us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1759us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4487us
+2016/01/05 23:19:38 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5000us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1369us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5399us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 257us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1912us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1484us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1247us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1637us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1289us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1883us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1297us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1580us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1531us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1904us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5079us
+2016/01/05 23:19:48 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1609us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2225us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1773us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1365us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 568us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4295us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1665us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1898us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1342us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1751us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1418us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1275us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1293us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2611us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 11219us
+2016/01/05 23:19:58 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1783us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2356us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1901us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1654us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1712us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1752us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1188us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1291us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1272us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1418us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1643us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1318us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1282us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 6889us
+2016/01/05 23:20:08 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1618us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1893us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1563us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1306us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1325us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1903us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2488us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1588us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1299us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 3628us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1616us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1845us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7408us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1985us
+2016/01/05 23:20:18 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1163us
+2016/01/05 23:20:59 [I] Completed 114.92.139.144 forest "GET /logout HTTP/1.0" 302 Found 29 bytes in 1229us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2126us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1469us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1721us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1315us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7359us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1533us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1221us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2877us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 5740us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 14405us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 4176us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 7704us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1840us
+2016/01/05 23:22:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1001us
+2016/01/05 23:22:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2010us
+2016/01/05 23:22:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1942us
+2016/01/05 23:22:24 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2472us
+2016/01/05 23:22:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2047us
+2016/01/05 23:22:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2176us
+2016/01/05 23:22:51 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2471us
+2016/01/05 23:23:01 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2191us
+2016/01/05 23:23:11 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1913us
+2016/01/05 23:23:21 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1730us
+2016/01/05 23:23:31 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 2381us
+2016/01/05 23:23:41 [I] Completed 114.92.139.144 - "GET /query HTTP/1.0" 500 Internal Server Error 0 bytes in 1638us
+2016/01/05 23:23:51 [I] Received signal interrupt. shutting down
+2016/01/05 23:26:41 [I] Starting Grafana
+2016/01/05 23:26:41 [I] Version: 2.6.0, Commit: v2.6.0, Build date: 2015-12-14 22:18:01 +0800 CST
+2016/01/05 23:26:41 [I] Configuration Info
+Config files:
+  [0]: /qinyuan/grafana/conf/defaults.ini
+Paths:
+  home: /qinyuan/grafana
+  data: /qinyuan/grafana/data
+  logs: /qinyuan/grafana/data/log
+
+2016/01/05 23:26:41 [I] Database: sqlite3
+2016/01/05 23:26:41 [I] Migrator: Starting DB migration
+2016/01/05 23:26:41 [I] Listen: http://0.0.0.0:3000
+2016/01/05 23:27:32 [I] Completed 114.92.139.144 admin "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 356us
+2016/01/05 23:28:32 [I] Completed 114.92.139.144 admin "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 550us
+2016/01/05 23:28:32 [I] Completed 114.92.139.144 admin "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1805us
+2016/01/05 23:29:33 [I] Completed 114.92.139.144 admin "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 248us
+2016/01/05 23:32:00 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 428us
+2016/01/05 23:32:21 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 972us
+2016/01/05 23:33:00 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 225us
+2016/01/05 23:33:31 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 289us
+2016/01/05 23:44:05 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 1764us
+2016/01/05 23:51:47 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 227us
+2016/01/05 23:54:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 4467us
+2016/01/05 23:54:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 5555us
+2016/01/05 23:54:48 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 1428us
+2016/01/05 23:55:38 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 4489us
+2016/01/05 23:56:08 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 273us
+2016/01/05 23:56:38 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2625us
+2016/01/05 23:57:28 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 275us
+2016/01/05 23:58:29 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 8472us
+2016/01/05 23:58:59 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/2/query HTTP/1.0" 401 Unauthorized 26 bytes in 2217us
+2016/01/05 23:59:39 [I] Completed 114.92.139.144 forest "GET /api/datasources/proxy/3/query HTTP/1.0" 401 Unauthorized 26 bytes in 3518us

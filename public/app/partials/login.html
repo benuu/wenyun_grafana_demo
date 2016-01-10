@@ -1,0 +1,95 @@
+<div class="container">
+
+	<div class="login-box">
+
+		<div class="login-box-logo">
+			<img src="img/logo_transparent_200x75.png">
+		</div>
+
+    <div class="login-inner-box">
+			<div class="login-tab-header">
+				<button class="btn-login-tab" ng-click="loginMode = true;" ng-class="{active: loginMode}">
+					登录
+				</button>
+				<button class="btn-login-tab" ng-click="loginMode = false;" ng-class="{active: !loginMode}" ng-show="!disableUserSignUp">
+					注册
+				</button>
+			</div>
+
+      <form name="loginForm" class="login-form" style="margin-top: 25px;">
+				<div class="tight-form-container">
+					<div class="tight-form" ng-if="loginMode">
+						<ul class="tight-form-list">
+							<li class="tight-form-item" style="width: 78px">
+								<strong>用户名</strong>
+							</li>
+							<li>
+								<input type="text" name="username" class="tight-form-input last" required ng-model='formModel.user' placeholder={{loginHint}} style="width: 253px">
+							</li>
+						</ul>
+						<div class="clearfix"></div>
+					</div>
+					<div class="tight-form" ng-if="loginMode">
+						<ul class="tight-form-list">
+							<li class="tight-form-item" style="width: 78px">
+								<strong>密码</strong>
+							</li>
+							<li>
+								<input type="password" name="password" class="tight-form-input last" required ng-model="formModel.password" id="inputPassword" style="width: 253px" placeholder="password">
+							</li>
+						</ul>
+						<div class="clearfix"></div>
+					</div>
+
+					<div class="tight-form" ng-if="!loginMode">
+						<ul class="tight-form-list">
+							<li class="tight-form-item" style="width: 79px">
+								<strong>邮件</strong>
+							</li>
+							<li>
+								<input type="email" class="tight-form-input last" required ng-model='formModel.email' placeholder="email" style="width: 253px">
+							</li>
+						</ul>
+						<div class="clearfix"></div>
+					</div>
+
+				</div>
+
+				<div class="login-submit-button-row">
+					<button type="submit" class="btn" ng-click="submit();" ng-class="{'btn-inverse': !loginForm.$valid, 'btn-primary': loginForm.$valid}">
+						{{submitBtnText}}
+					</button>
+				</div>
+			</form>
+
+			<div class="clearfix"></div>
+
+			<div class="login-oauth text-center">
+				<a class="btn btn-google" href="login/google" target="_self" ng-if="googleAuthEnabled">
+					<i class="fa fa-google"></i>
+					Google账号
+				</a>
+				<a class="btn btn-github" href="login/github" target="_self" ng-if="githubAuthEnabled">
+					<i class="fa fa-github"></i>
+					Github账号
+				</a>
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 40px">
+			<div class="text-center">
+				<a href="user/password/send-reset-email">
+					忘记密码?
+				</a>
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 50px">
+			<div class="version-footer text-center small">
+				Wenyun Tech
+			</div>
+		</div>
+
+	</div>
+
+

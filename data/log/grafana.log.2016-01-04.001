@@ -1,0 +1,5 @@
+2016/01/03 12:01:31 [I] Completed 112.65.191.42 forest "GET / HTTP/1.0" 302 Found 29 bytes in 547us
+2016/01/03 12:01:31 [I] Completed 112.65.191.42 forest "GET /login HTTP/1.0" 302 Found 24 bytes in 1335us
+2016/01/03 18:10:23 [I] Completed 61.135.190.200 - "GET / HTTP/1.0" 302 Found 29 bytes in 447us
+2016/01/03 19:24:39 [I] Completed 71.163.40.225 - "GET / HTTP/1.0" 302 Found 29 bytes in 444us
+2016/01/03 23:58:32 [T] Sending anonymous usage stats to stats.grafana.org
